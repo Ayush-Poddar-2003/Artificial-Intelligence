@@ -17,3 +17,8 @@ Under estimates the path cost.
 `h(n) <= h'(n)`
 
 ![alt text](Images/ANA.png)
+
+---
+
+## 8 Puzzle Problem
+![alt text](Images/8puzz.png)

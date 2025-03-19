@@ -6,4 +6,4 @@ Works like DFS with backtracking
 ### Properties of good generator
 Complete, Non Redundant, Informed
 
-![alt text](Images/GT.png)
+![alt text](image-2.png)
