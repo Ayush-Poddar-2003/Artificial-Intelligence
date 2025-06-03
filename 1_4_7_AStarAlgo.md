@@ -1,4 +1,6 @@
 # A* Algorithm
+
+![alt text](image-9.png)
 Graph traversal and search algorithm.  
 Finds shortest path
 
@@ -23,5 +25,3 @@ ALGORITHM
        discard the new path.
        6. If a successor is in the Closed list and the new path is better,  
        move it back to the Open list.
-
-![alt text](image.png)
