@@ -1,18 +1,26 @@
 # A* Algorithm
 
 ![alt text](image-9.png)
-Graph traversal and search algorithm.  
-Finds shortest path
 
-Uses heuristic function and cost to reach node 'n' form start node.
+---
+Powerful graph traversal and pathfinding algorithm  
+Finds shortest path b/w 2 nodes.  
+Combines the advantages of -  
+    Dijkstra's algorithm and Greedy Best-First Search.
 
-    F(n) = g(n) + h(n)
+Uses heuristic function and actual cost to reach node 'n' form start node.
 
-    g(n) : cost from start to current node
-    h(n) : cost from current to goal node
+    F(n) = h(n) + g(n)
 
-ALGORITHM
-   
+---
+**ADVANTAGES**  
+Optimal Solution, Completeness, Efficiency, Solves complex problems
+
+**DISADVANTAGES**   
+Not Always shortest, Complexity, Require large memory
+
+---
+
     1. Initialize Open and Closed List
     2. Add Start node to open list
        1. Compute g(n) + h(n)

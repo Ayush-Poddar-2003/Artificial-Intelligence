@@ -29,9 +29,11 @@ If an interrogator would not be able to identify which is a machine and which is
 |------------------|--------------------------------|--------------------------------|
 | **Nature**       | Biological (organic)         | Digital (machine-based)       |
 | **Processing Speed** | Slower | Faster |
-| **Learning Method** | Learns from experience and emotions | Learns from data and algorithms |
-| **Creativity**    | Highly creative and intuitive | Limited creativity, follows patterns |
+| **Learning Method** | From experience and emotions | From data and algorithms |
+| Decision-Making | Emotionally, ethically,  socially driven| Purely on data, logic, and parameters set|
+|Energy Consumption| Low, around 20W for human brain | High |
 | **Adaptability**  | Adapts quickly to new situations | Requires retraining for major changes |
+| **Creativity**    | Highly creative,  intuitive | Limited creativity, follows patterns |
 | **Error Handling** | Can recognize and correct mistakes | Needs explicit programming to correct errors |
 
 
@@ -44,3 +46,6 @@ If an interrogator would not be able to identify which is a machine and which is
 6. Deep Learning.
 7. Fuzzy Logic.
 8. Evolutionary Computation.
+
+
+![alt text](image-11.png)
